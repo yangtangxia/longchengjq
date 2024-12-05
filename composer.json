@@ -1,0 +1,24 @@
+{
+    "name": "longchengjq/dignitary-sdk",
+    "description": "dignitary-sdk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "longchengjq.Mr.Yang",
+            "homepage": "http://www.lcknp.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Longchengjq\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Longchengjq\\Tests\\": "tests/"
+        }
+    }
+}
