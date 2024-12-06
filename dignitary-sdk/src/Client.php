@@ -1,14 +1,10 @@
 <?php
-namespace Longchengjq;
+namespace Longchengjq\DignitarySdk\Src;
 
 
 class Client
 {
-   
-    public function __construct()
-    {
-       
+    public function sayHello() {
+        echo "Hello from Client!";
     }
-    
-
 }

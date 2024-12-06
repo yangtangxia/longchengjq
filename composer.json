@@ -15,12 +15,15 @@
     },
     "autoload": {
         "psr-4": {
-            "Longchengjq\\": "src/"
+            "longchengjq\\": "src/",
+            "Longchengjq\\DignitarySdk\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Longchengjq\\Tests\\": "tests/"
+            "Longchengjq\\Tests\\": "tests/",
+            "longchengjq\\": "src/",
+            "Longchengjq\\DignitarySdk\\": "src/"
         }
     }
 }
