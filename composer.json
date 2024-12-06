@@ -18,10 +18,5 @@
         "psr-4": {
             "Longchengjq\\dignitary\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Longchengjq\\Tests\\": "tests/"
-        }
     }
 }
