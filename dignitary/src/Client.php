@@ -1,6 +1,5 @@
 <?php
-namespace Longchengjq\DignitarySdk\Src;
-
+namespace Longchengjq\Dignitary\Src;
 
 class Client
 {

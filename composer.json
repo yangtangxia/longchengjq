@@ -1,6 +1,6 @@
 {
-    "name": "longchengjq",
-    "description": "dignitary-sdk",
+    "name": "longchengjq/dignitary",
+    "description": "dignitary",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "type": "library",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "longchengjq\\": "src/"
+            "Longchengjq\\": "src/"
         }
     },
     "autoload-dev": {
