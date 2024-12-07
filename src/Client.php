@@ -1,5 +1,5 @@
 <?php
-namespace Longchengjq\Dignitary\Src;
+namespace Longchengjq;
 
 class Client
 {

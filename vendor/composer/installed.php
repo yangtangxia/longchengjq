@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'longchengjq/dignitary',
+        'name' => 'longchengjq/solar',
         'pretty_version' => '1.0.0',
         'version' => '1.0.0.0',
         'reference' => null,
@@ -10,7 +10,7 @@
         'dev' => true,
     ),
     'versions' => array(
-        'longchengjq/dignitary' => array(
+        'longchengjq/solar' => array(
             'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
             'reference' => null,
